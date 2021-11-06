@@ -31,7 +31,6 @@ Here are some ideas to get you started:
   <img align="center" alt="athosoli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="athosoli-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="athosoli-Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-  
   <img align="center" alt="athosoli-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="athosoli-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="athosoli-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
@@ -57,7 +56,8 @@ Here are some ideas to get you started:
  <a href="https://api.whatsapp.com/send?phone=5573999035376" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href = "mailto:athos.udk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
- 
+ <!--
   ![Snake animation](https://github.com/athosoli/athosoli/blob/output/github-contribution-grid-snake.svg)
- 
+ ![Snake animation](https://github.com/athosoli/athosoli/blob/output/github-contribution-grid-snake.svg)
+-->
 </div>
