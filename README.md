@@ -1,5 +1,8 @@
-### Hi there 👋
-
+## Ola, seu Athos de Oliveira 👋
+- 🔭 Trabalho atualmente como Analista de Teste QA.
+- 🔭 Desenvolvo Testes automatizados usando o Cypress e Postman.
+- 🌱 Estudo atualemnte Desenvolvimento web FullStack na Labenu.
+- 
 <!--
 **athosoli/athosoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
