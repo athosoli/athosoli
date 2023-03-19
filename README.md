@@ -1,6 +1,6 @@
 ## 😄 Ola, Eu sou Athos de Oliveira 👋
 - 🔭 Trabalho atualmente como Analista de Teste QA.
-- 🔭 Desenvolvo Testes automatizados com Cypress e Postman.
+- 🔭 Desenvolvo Testes automatizados com Cypress, Robot framework, Selenium, insominia, newman, Postman, jmeter e k6.
 - 🌱 Estudo Desenvolvimento Web FullStack na Labenu.
 
 <!--
